@@ -36,7 +36,7 @@
         android:layout_marginRight="16dp"
         android:textSize="16sp"
         android:layout_weight="0"
-        android:text="Around the corner" />
+        android:text="Around the corner - GitHub" />
     <TextView
         android:id="@+id/title_text_hours"
         android:layout_width="match_parent"
