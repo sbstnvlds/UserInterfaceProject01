@@ -18,7 +18,7 @@
         android:layout_marginRight="16dp"
         android:textSize="20sp"
         android:layout_weight="0"
-        android:text="Business Name" />
+        android:text="Lekker Local" />
     <TextView
         android:id="@+id/title_text_description"
         android:layout_width="match_parent"
@@ -27,7 +27,7 @@
         android:layout_marginRight="16dp"
         android:textSize="16sp"
         android:layout_weight="0"
-        android:text="Your local business around the corner" />
+        android:text="Local products and satisfaction" />
     <TextView
         android:id="@+id/title_text_address"
         android:layout_width="match_parent"
@@ -36,7 +36,7 @@
         android:layout_marginRight="16dp"
         android:textSize="16sp"
         android:layout_weight="0"
-        android:text="Around the corner - GitHub" />
+        android:text="742 Evergreen Terrace" />
     <TextView
         android:id="@+id/title_text_hours"
         android:layout_width="match_parent"
